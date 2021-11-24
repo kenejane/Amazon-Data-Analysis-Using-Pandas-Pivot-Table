@@ -1,0 +1,2 @@
+# Amazon-Data-Analysis-Using-Pandas-Pivot-Table
+This is an analysis done on an amazon dataset provided for study purposes. The dataset was analyzed using pandas pivot table and visualizations were created in python. The observations and report was done inside the jupyter notebook. I enjoyed working on this project because it was my first time using pandas pivot table after being conversant with Microsoft excel pivot table.
